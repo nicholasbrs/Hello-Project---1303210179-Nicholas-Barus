@@ -31,6 +31,9 @@ def click(event):
         Scvalue.set(value)
         screen.update()
 
+        #LANGKAH 6 WASGLOB ( KOMENTAR )
+        
+        
     elif text == "C":
         Scvalue.set("None")
         screen.update()
